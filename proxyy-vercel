@@ -3,7 +3,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "http://azion.skalav4.shop/$1"
+      "destination": "https://200.218.237.237/$1"
     }
   ]
 }
